@@ -1,4 +1,4 @@
-# Blinkit_Dashboard_Power_BI
+# Blinkit_Sales_Analysis
 📊 Sales Analysis Dashboard – Power BI
 
 This project is a Sales Analysis Dashboard created using Microsoft Power BI.
